@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ae7f897-8bf8-436d-b89d-4a7cf217402a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2eUJt9vK3pHJUskOZkQXs1sJbDq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MusicOnlineApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Program/IDEA/project/project/music-online/src/main/java/com/musiconline&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program\IDEA\project\project\music-online\src\main\java\com\musiconline" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MusicOnlineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="music-online" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.musiconline.MusicOnlineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ae7f897-8bf8-436d-b89d-4a7cf217402a" name="Changes" comment="" />
+      <created>1711953434576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711953434576</updated>
+      <workItem from="1711953435634" duration="661000" />
+      <workItem from="1711954529332" duration="20000" />
+      <workItem from="1711956715609" duration="2681000" />
+      <workItem from="1712121820770" duration="4383000" />
+      <workItem from="1712142998982" duration="386000" />
+      <workItem from="1712143398600" duration="45000" />
+      <workItem from="1712143453001" duration="163000" />
+      <workItem from="1712143632443" duration="17000" />
+      <workItem from="1712143963275" duration="2182000" />
+      <workItem from="1712390915663" duration="14243000" />
+      <workItem from="1712653616591" duration="136000" />
+      <workItem from="1712726946809" duration="464000" />
+      <workItem from="1712727757498" duration="6328000" />
+      <workItem from="1712813408366" duration="7240000" />
+      <workItem from="1713168403847" duration="2400000" />
+      <workItem from="1713245521417" duration="3409000" />
+      <workItem from="1713858048649" duration="251000" />
+      <workItem from="1713858388791" duration="852000" />
+      <workItem from="1713859259981" duration="334000" />
+      <workItem from="1713861469375" duration="494000" />
+      <workItem from="1716169514194" duration="7000" />
+      <workItem from="1717476281850" duration="1000" />
+      <workItem from="1719301114928" duration="332000" />
+      <workItem from="1719301463208" duration="86000" />
+      <workItem from="1719301557727" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
